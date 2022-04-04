@@ -1,4 +1,2 @@
- #!/bin/bash
-echo "Hellow, World" > 0-hello_world
-cat 0-hello_world
- 
+#!/bin/bash
+echo "Hellow, World" 
