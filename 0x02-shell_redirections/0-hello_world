@@ -1,2 +1,4 @@
-#!/bin/bash
-printf 'Hello, World'
+ #!/bin/bash
+echo "Hellow, World" > 0-hello_world
+cat 0-hello_world
+ 
