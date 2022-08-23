@@ -1,6 +1,7 @@
 # 0x00-Shell_basics
 
-## Table of contents
+## Table of contents🔥
+
 | Projects | Descripition |
 | -------- | ------------ |
 |[0-Current_working_directory](0-Current_working_directory) | prints the current working directory. |
