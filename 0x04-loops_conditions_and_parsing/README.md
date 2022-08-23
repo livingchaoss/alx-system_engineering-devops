@@ -1,6 +1,7 @@
 # 0x04-loops_conditions_and_parsing
 
-## Table of contents
+## Table of contents💠
+
 | Projects | Description |
 | -------- | ----------- |
 |[0-RSA_public_key_pub](0-RSA_public_key.pub) | Public key for RSA key pair |
