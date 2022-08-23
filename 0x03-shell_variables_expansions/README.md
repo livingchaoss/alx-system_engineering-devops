@@ -1,6 +1,7 @@
 # 0x03-Shell_variables_expansions
 
-## Table of descripitions
+## Table of descripitions✨
+
 | Projects | Descripition |
 | -------- | ------------ |
 |[0-Alias](0-alias) | a script that creates an alias. |
