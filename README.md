@@ -10,6 +10,13 @@
 
 >[0x02-Shell_redirections](0x02-shell_redirections)
 
->
+>[0x03-Shell_variables_expansions](0x03-shell_variables_expansions)
 
+>[0x04-Loops_conditions_and_parsing](0x04-Loops_conditions_and_parsing)
+
+>[0x05-Process_and_signals](0x05-Process_and_parsing)
+
+>[0x06-Regular_expressions](0x06-Regular_expressions)
+
+>[Command_line-for_the_win](Command_line_for_the_win)
 
