@@ -8,5 +8,8 @@
 
 >[0x01-Shell_permissions](0x0-shell_permissions)
 
+>[0x02-Shell_redirections](0x02-shell_redirections)
+
+>
 
 
