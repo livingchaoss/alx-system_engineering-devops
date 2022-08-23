@@ -1,6 +1,7 @@
 # 0x05-processes_and_signals
 
-## Table of description
+## Table of description ♠️
+
 | Projects | Description |
 | -------- | ----------- |
 |[0-What-is-my-pid](0-what-is-my-pid) | Bash script that displays its own PID |
