@@ -15,7 +15,7 @@
 |[9-Divide_and_rule](9-divide_and_rule) | a script that prints the result of POWER divided by DIVIDE, followed by a new line. |
 |[10-Love_exponent_breath](10-love_exponent_breath) | a script that displays the result of BREATH to the power LOVE. |
 |[11-BInary_to_decimal](11-binary_to_decimal) |  a script that converts a number from base 2 to base 10. |
-|[12-Cobinations](12-combinations) |  a script that converts a number from base 2 to base 10. |
+|[12-Cobinations](12-combinations) |   a script that prints all possible combinations of two letters, except oo. |
 |[13-Print_float](13-print_float) | a script that prints a number with two decimal places. |
 |[100-Decimal_to_hexadecimal](100-decimal_to_hexadecimal) |  a script that encodes and decodes text using the rot13 encryption. |
 |[101-Rot13](101-rot13) | a script that encodes and decodes text using the rot13 encryption. |
