@@ -18,5 +18,5 @@
 |[12-Cobinations](12-combinations) |   a script that prints all possible combinations of two letters, except oo. |
 |[13-Print_float](13-print_float) | a script that prints a number with two decimal places. |
 |[100-Decimal_to_hexadecimal](100-decimal_to_hexadecimal) |  a script that encodes and decodes text using the rot13 encryption. |
-|[101-Rot13](101-rot13) | a script that encodes and decodes text using the rot13 encryption. |
+|[101-Rot13](101-rot13) | a script that prints every other line from the input, starting with the first line.  |
 |[102-Odd](102-odd) | a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. |
