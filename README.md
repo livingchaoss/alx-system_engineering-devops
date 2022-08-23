@@ -6,3 +6,7 @@
 
 >[0x00-Shell_basics](0x00-shell_basics)
 
+>[0x01-Shell_permissions](0x0-shell_permissions)
+
+
+
