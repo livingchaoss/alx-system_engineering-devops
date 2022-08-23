@@ -1,6 +1,6 @@
 # 0x02-Shell_redirections
 
-## Table of contents
+## Table of contents🤣
 
 | Projects | Descripition |
 | -------- | ------------ |
